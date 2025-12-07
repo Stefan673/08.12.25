@@ -20,7 +20,6 @@ int main() {
     }
 
     if (min2 == 1000) {
-        // nu există două valori distincte
         cout << 0;
     } else {
         cout << min1 << " " << min2;
